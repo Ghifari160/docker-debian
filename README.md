@@ -30,4 +30,4 @@ docker run -it ghifari160/debian
 | `8.10` `jessie`          | 8.10           | *TBA* |
 
 [g16-ubuntu]: https://hub.docker.com/r/ghifari160/ubuntu
-[g16-deb-issue]: https://github.com/ghifari160/docker-debian
+[g16-deb-issue]: https://github.com/ghifari160/docker-debian/issues
