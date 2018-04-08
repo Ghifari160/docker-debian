@@ -1,5 +1,6 @@
 # A Better Debian Image on Docker #
 [![Ducker Hub: ghifari160/debian](https://img.shields.io/badge/docker%20hub-ghifari160%2Fdebian-%23ABD8EB.svg)](https://hub.docker.com/r/ghifari160/ubuntu)
+[![](https://images.microbadger.com/badges/image/ghifari160/debian.svg)](https://microbadger.com/images/ghifari160/debian "Get your own image badge on microbadger.com")
 
 Because the official image is lacking.
 
@@ -26,8 +27,8 @@ docker run -it ghifari160/debian
 ## Tags ##
 | Tags                     | Debian Version | Size  |
 |--------------------------|----------------|-------|
-| `latest` `9.4` `stretch` | 9.4            | *TBA* |
-| `8.10` `jessie`          | 8.10           | *TBA* |
+| `latest` `9.4` `stretch` | 9.4            | [![](https://images.microbadger.com/badges/image/ghifari160/debian.svg)](https://microbadger.com/images/ghifari160/debian "Get your own image badge on microbadger.com") |
+| `8.10` `jessie`          | 8.10           | [![](https://images.microbadger.com/badges/image/ghifari160/debian:8.10.svg)](https://microbadger.com/images/ghifari160/debian:8.10 "Get your own image badge on microbadger.com") |
 
 [g16-ubuntu]: https://hub.docker.com/r/ghifari160/ubuntu
 [g16-deb-issue]: https://github.com/ghifari160/docker-debian/issues
